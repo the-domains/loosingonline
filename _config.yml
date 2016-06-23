@@ -1,0 +1,14 @@
+layout_spectrum: 0.21693748096004128
+typography_spectrum: 0.5678454479202628
+color:
+  brandStrength: 0.22527153021655977
+  lightness: 0.693238724488765
+  saturation: 0.13057125662453473
+  rhythmicContrast: 0.35805880394764245
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: loosing.online
