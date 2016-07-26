@@ -28,18 +28,15 @@ description: >-
   Busey is reported to have said following the dispute.
 inLanguage: en
 app_links: []
-isBasedOnUrl: >-
-  http://www.pcgamer.com/gary-busey-must-die-hitmans-seventh-elusive-target-is-live/
 title: 'Hitman''s seventh Elusive Target is live, Gary Busey must die'
-datePublished: '2016-07-26T11:36:27.487Z'
-dateModified: '2016-07-26T11:36:11.768Z'
+datePublished: '2016-07-26T11:48:26.590Z'
+dateModified: '2016-07-26T11:48:26.031Z'
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-07-26-hitmans-seventh-elusive-target-is-live-gary-busey-must-die.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: hitmans-seventh-elusive-target-is-live-gary-busey-must-die/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
