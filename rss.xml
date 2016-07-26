@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Relaxed Marketing.]]></title>
         <description><![CDATA[Relaxed Marketing.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://loosers.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Jun 2016 18:06:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jul 2016 11:37:28 GMT</lastBuildDate>
+        <atom:link href="http://loosers.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hitman's seventh Elusive Target is live, Gary Busey must die]]></title>
+            <description><![CDATA[<article><h1>Hitman's seventh Elusive Target is live, Gary Busey must die</h1><p>As promised earlier this week, Gary Busey is now live as Hitman's seventh Elusive Target. For the next seven days, the Hollywood legend-and so-called "infamous loose cannon"-will be wandering the sun-kissed streets of Sapienza after a falling out with advertisement organisers. "You'll never find me," Busey is reported to have said following the dispute.</p><img src="http://cdn.mos.cms.futurecdn.net/jjkyfhn9Vx4ea7kcWtVz8S-1200-80.jpg"></article>]]></description>
+            <link>http://www.pcgamer.com/gary-busey-must-die-hitmans-seventh-elusive-target-is-live/</link>
+            <guid isPermaLink="false">56936db5-eadd-48c0-bc9e-9471be06e65b</guid>
+            <pubDate>Tue, 26 Jul 2016 11:36:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Well... </p>]]></description>
-            <link>undefinedwell/index.html</link>
+            <link>http://loosers.online/well/index.html</link>
             <guid isPermaLink="false">171386bb-a358-4b0d-b1cb-3fcb79d385bd</guid>
             <pubDate>Thu, 23 Jun 2016 18:06:44 GMT</pubDate>
         </item>
